@@ -56,7 +56,7 @@ The project uses a custom Maven repository for some of its dependencies. To acce
         <mirror>
           <id>queo-nexus</id>
           <url>https://nexus.dev.queo-group.com/repository/maven-public/</url>
-          <mirrorOf>*</mirrorOf>
+          <mirrorOf>external:*</mirrorOf>
         </mirror>
       </mirrors>
     </settings>
