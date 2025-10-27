@@ -56,6 +56,11 @@
             <version>2.0.13</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.queomedia.commons.dbschemacomparison</groupId>
+            <artifactId>queo-commons-dbschemacomparison-core</artifactId>
+            <version>3.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>
